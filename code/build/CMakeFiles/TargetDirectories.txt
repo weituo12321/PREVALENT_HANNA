@@ -1,0 +1,8 @@
+/root/mount/hanna/code/build/CMakeFiles/rebuild_cache.dir
+/root/mount/hanna/code/build/CMakeFiles/mattersim_main.dir
+/root/mount/hanna/code/build/CMakeFiles/edit_cache.dir
+/root/mount/hanna/code/build/CMakeFiles/MatterSim.dir
+/root/mount/hanna/code/build/CMakeFiles/tests.dir
+/root/mount/hanna/code/build/CMakeFiles/MatterSimPython.dir
+/root/mount/hanna/code/build/pybind11/CMakeFiles/rebuild_cache.dir
+/root/mount/hanna/code/build/pybind11/CMakeFiles/edit_cache.dir

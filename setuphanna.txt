@@ -1,0 +1,23 @@
+for hanna
+ssh chunyl@51.143.9.225
+
+
+1
+apt-get install python3-venv python3-pip
+pip3 install pytorch_transformers==1.2.0  
+
+
+2 fix modeling_utils.py
+
+line 17:
+from pytorch_transformers.file_utils import cached_path
+
+3 image path  
+export MATTERPORT_DATA_DIR=/mnt/tmp/skybox_images/v1/scans
+
+to run:
+modify define_vars.sh 
+modify train_main.sh
+modify config/hanna.json 
+
+ 
