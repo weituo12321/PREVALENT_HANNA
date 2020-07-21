@@ -1,5 +1,5 @@
 # PREVALENT_HANNA
-Apply PREVALENT pretrained code on HANNA task
+Apply PREVALENT pretrained code on HANNA task. Clearing the redundant code and unused definitions. You can still try the code now.
 
 
 Environment setting up:
